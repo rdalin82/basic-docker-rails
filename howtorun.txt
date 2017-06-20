@@ -1,0 +1,2 @@
+sudo docker-compose down // in one window
+sudo docker-compose run web rake db:create // in another window 
